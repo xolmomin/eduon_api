@@ -1,0 +1,2 @@
+from courses.serializers.comment import CommentModelSerializer
+from courses.serializers.course import CourseModelSerializer, CategoryModelSerializer
